@@ -1,0 +1,17 @@
+.timepicker-ui-input,
+.button {
+  border-radius: 50px;
+  background-color: rgb(12, 186, 249);
+  height: 60px;
+  font-size: 1.2em;
+}
+
+.timepicker-ui-input {
+  margin-left: 20%;
+}
+
+.center {
+  margin-bottom: 2%;
+  display: flex;
+  justify-content: center;
+}
